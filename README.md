@@ -1,6 +1,5 @@
-# Device Tree for the Xperia 1 III
-
-The Xperia 1 III (Codenamed "pdx215") is a flagship smartphone from Sony released in August 2021.
+# Device Tree for the S9
+S9 (Codenamed "starlte") is a flagship smartphone from Samsung released in March 2018.
 
 ## Device Specifications
 
@@ -22,4 +21,5 @@ The Xperia 1 III (Codenamed "pdx215") is a flagship smartphone from Sony release
 
 ## Device Picture
 
-![Xperia 1 III](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-burgundy-red.jpg)
+![Galaxy S9](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-burgundy-red.jpg)
+
